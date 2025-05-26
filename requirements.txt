@@ -1,0 +1,5 @@
+openai~=1.23.2
+requests~=2.31.0
+aiogram~=2.23.1
+gTTS~=2.5.1
+SQLAlchemy~=2.0.29
